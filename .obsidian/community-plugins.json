@@ -1,4 +1,11 @@
 [
   "agent-client",
-  "claudian"
+  "claudian",
+  "settings-search",
+  "recent-files-obsidian",
+  "calendar",
+  "tag-wrangler",
+  "omnisearch",
+  "quickadd",
+  "obsidian-tasks-plugin"
 ]
