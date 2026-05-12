@@ -1,4 +1,6 @@
 {
   "promptDelete": false,
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "灵感"
 }
